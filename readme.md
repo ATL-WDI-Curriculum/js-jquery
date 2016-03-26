@@ -236,7 +236,7 @@ $("h2").on("click", function(){
   console.log(this.html());
 });
 ```
-
+> `this` has to be wrapped in a jQuery object as `$(this)`, before you can use jQuery methods on it.
 Most event listeners have a jQuery method named after them.
 
 Instead of writing `.on("click", function(){})` you can just write `.click(function(){})`;
