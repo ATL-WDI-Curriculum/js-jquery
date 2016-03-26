@@ -34,8 +34,8 @@ Before we dive into the world of jQuery, let's make sure we've got our Vanilla J
 
 ### Exercise: JS Selector Review (10min)
 
-Follow along with "My Blawg": https://github.com/ga-wdi-exercises/my-blawg
-- Clone: `$ git clone https://github.com/ga-wdi-exercises/my-blawg.git`
+Follow along with ["My Blawg"](https://github.com/ATL-WDI-Exercises/my-blawg)
+- Clone: `$ git clone https://github.com/ATL-WDI-Exercises/my-blawg.git`
 - Open: `$ open index.html`
 - We'll be using this as an example throughout today's class.
 
