@@ -129,7 +129,7 @@ Let's break it down:
 - Method: `.html()`
   - jQuery comes with tons of methods that we can use to traverse and modify the DOM, among other things.
   - In this example we're looking at `.html()`, which returns the HTML contents of a DOM object.
-  - We'll go over a few today, and you'll go over a lot more of them with Andy during your second jQuery class.
+  - We'll go over a few today, and you'll go over a lot more of them in your second jQuery class.
 
 ### Wrap it in cash
 
